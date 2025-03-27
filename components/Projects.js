@@ -10,7 +10,7 @@ const Projects = () => {
     {
       id: 2,
       category: "Lendbit Finance",
-      img: "/assets/img/projects/lendbit.png",
+      img: "/assets/img/projects/Lendbit.png",
     },
   ];
   return (

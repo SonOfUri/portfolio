@@ -7,7 +7,7 @@ const page = () => {
       id: 1,
       title: "vProtocol - A Lending Protocol",
       subtitle: "SaaS App | UI UX Design",
-      img: "/assets/img/projects/vprotocol.png",
+      img: "/assets/img/projects/vProtocol.png",
       link: "https://vprotocol.xyz/",
     },
     {
@@ -28,38 +28,30 @@ const page = () => {
       id: 4,
       title: "BoeOnBase - Culture Coin On Base",
       subtitle: "UI UX Design| 3D | Website",
-      img: "/assets/img/projects/boeonbase.png",
+      img: "/assets/img/projects/Boeonbase.png",
       link: "https://boe-on-base.vercel.app/main.html",
     },
     {
       id: 5,
       title: "dStore - Decentralized File Storage",
       subtitle: "UI UX Design | Development",
-      img: "/assets/img/projects/project-3.png",
-      link: "",
+      img: "/assets/img/projects/dStore.png",
+      link: "https://d-store-dahsboard.vercel.app/",
     },
     {
       id: 6,
       title: "LendbitV - DEFI Lending Telegram Mini-app",
-      subtitle: "UI UX Design | Development",
+      subtitle: "UI UX Design | Development | Telegram Mini-App",
       img: "/assets/img/projects/project-3.png",
       link: "",
     },
     {
       id: 7,
-      title: "Apollo Wallet - 'Disposable' EVM wallet",
+      title: "Starkaid - Web3 Crowdfunding Platform",
       subtitle: "UI UX Design | Development",
-      img: "/assets/img/projects/project-3.png",
-      link: "",
+      img: "/assets/img/projects/Starkaid.png",
+      link: "https://starkaid.vercel.app/",
     },
-    {
-      id: 8,
-      title: "Artify - AI Powered NFT Generator",
-      subtitle: "UI UX Design | Development",
-      img: "/assets/img/projects/project-3.png",
-      link: "",
-    },
-    
   ];
   return (
     <SonOfURILayout>
