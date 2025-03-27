@@ -40,17 +40,17 @@ const page = () => {
     },
     {
       id: 6,
-      title: "LendbitV - DEFI Lending Telegram Mini-app",
-      subtitle: "UI UX Design | Development | Telegram Mini-App",
-      img: "/assets/img/projects/project-3.png",
-      link: "",
-    },
-    {
-      id: 7,
       title: "Starkaid - Web3 Crowdfunding Platform",
       subtitle: "UI UX Design | Development",
       img: "/assets/img/projects/Starkaid.png",
       link: "https://starkaid.vercel.app/",
+    },
+    {
+      id: 7,
+      title: "LendbitV - DEFI Lending Telegram Mini-app",
+      subtitle: "UI UX Design | Development | Telegram Mini-App",
+      img: "/assets/img/projects/project-3.png",
+      link: "",
     },
   ];
   return (
