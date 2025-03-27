@@ -17,7 +17,7 @@ const ExpertArea = () => {
 
     // Ethers & Web3js (2)
     { id: 7, icon: "assets/img/icons/ethers.svg", name: "Ethers" },
-    { id: 8, icon: "assets/img/icons/Web3js.svg", name: "Web3js" },
+    { id: 8, icon: "assets/img/icons/web3js.svg", name: "Web3js" },
 
     // Solidity & Ethereum (2)
     { id: 9, icon: "assets/img/icons/solidity.svg", name: "Solidity" },
