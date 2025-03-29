@@ -81,7 +81,7 @@ const ProfileCard = () => {
             <ul className="list-unstyled">
               {socialItems.map((item) => (
                 <li key={item.id}>
-                  <a href={item.href}>
+                  <a href={item.url}>
                     <i className={item.icon} />
                   </a>{" "}
                 </li>
