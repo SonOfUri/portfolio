@@ -20,11 +20,10 @@ const ProfileCard = () => {
 
   const socialItems = [
 
-    { id: 1, url: "#", name: "Github", icon: "fab fa-github" },
-    { id: 2, url: "#", name: "Behance", icon: "fab fa-behance" },
-    { id: 3, url: "#", name: "Medium", icon: "fab fa-medium" },
-    { id: 4, url: "#", name: "Twitter", icon: "fab fa-twitter" },
-    { id: 5, url: "#", name: "Telegram", icon: "fab fa-telegram" },
+    { id: 1, url: "https://github.com/SonOfUri", name: "Github", icon: "fab fa-github" },
+    { id: 3, url: "https://medium.com/@sonofuri", name: "Medium", icon: "fab fa-medium" },
+    { id: 4, url: "https://x.com/0xSonOfUri", name: "Twitter", icon: "fab fa-twitter" },
+    { id: 5, url: "https://t.me/SonOfUri_dev", name: "Telegram", icon: "fab fa-telegram" },
   ];
 
   return (
