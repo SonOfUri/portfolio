@@ -23,7 +23,7 @@ const Services = () => {
           <div className="card services-card">
             <div className="card-body">
               <h3 className="card-title">
-                Services I Offered
+                Services I Offer
                 <Link className="link-btn" href="/services">
                   {" "}
                   See All Services
