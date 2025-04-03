@@ -46,7 +46,7 @@ const page = () => {
             <div className="top-info">
               <div className="text">
                 <h1 className="main-title">
-                  Services I <span>Offered</span>
+                  Services I <span>Offer</span>
                 </h1>
                 Turning Ideas into Impactful Products — Elevate Your Vision with Our Expert
                 <b> Product Design & Development</b> Services!
