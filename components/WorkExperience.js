@@ -10,38 +10,38 @@ const Experience = () => {
     {
       id: 2,
       title: "Mockexam ng.",
-      subTitle: "Product Developer",
+      subTitle: "Frontend Engineer",
       icon: "/assets/img/icons/mockexamng.svg",
       date: "2020-2022",
     },
     {
       id: 3,
       title: "Exam Compass",
-      subTitle: "Product Developer",
+      subTitle: "Frontend Engineer",
       icon: "/assets/img/icons/examcompass.svg",
       date: "2022-2024",
     },
     {
       id: 4,
       title: "Web3Bridge",
-      subTitle: "Web3 Developer",
+      subTitle: "Fullstack Web3 Developer",
       icon: "/assets/img/icons/web3bridge.svg",
       date: "2024-2025",
     },
     {
       id: 5,
-      title: "Lendbit",
-      subTitle: "Product Developer",
+      title: "Lendbit Finance",
+      subTitle: "Fullstack Web3 Developer",
       icon: "/assets/img/icons/lendbit.svg",
       date: "2024-2025",
     },
-    {
-      id: 6,
-      title: "vProtocol",
-      subTitle: "Founder & CEO",
-      icon: "/assets/img/icons/vprotocol.svg",
-      date: "2025-2025",
-    },
+    // {
+    //   id: 6,
+    //   title: "vProtocol",
+    //   subTitle: "Founder & CEO",
+    //   icon: "/assets/img/icons/vprotocol.svg",
+    //   date: "2025-2025",
+    // },
   ];
   return (
     <ul className="work-experiance-slider list-unstyled">

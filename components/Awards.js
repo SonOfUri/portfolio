@@ -24,6 +24,22 @@ const Awards = () => {
       award: "3x Winner",
       link: "https://x.com/QuickNode/status/1857498831371505794",
     },
+    {
+      id: 4,
+      icon: "/assets/img/icons/base.jpeg",
+      title: "Base Batches Buildathon",
+      date: "2025",
+      award: "Winner",
+      link: "https://x.com/base/status/1930352093074010170",
+    },
+    {
+      id: 5,
+      icon: "/assets/img/icons/OKX.png",
+      title: "OKX ETHCC Hackathon",
+      date: "2025",
+      award: "Winner",
+      link: "https://dorahacks.io/hackathon/okx-ethcc-hackathon/winner",
+    },
   ];
   return (
     <div className="awards-recognitions">

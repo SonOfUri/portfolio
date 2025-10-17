@@ -16,3 +16,14 @@ img.mfp-img {
   right: -24px;
 }
 
+/* Spacing between slick slides in GlobalRecognition */
+.article-publications-slider .slick-list {
+  margin-left: -8px;
+  margin-right: -8px;
+}
+
+.article-publications-slider .slick-slide {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
