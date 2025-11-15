@@ -14,7 +14,7 @@ const Services = () => {
       icon: "/assets/img/icons/web-development.svg",
       title: "Web Development",
     },
-    { id: 4, icon: "/assets/img/icons/app.svg", title: "Smart Contract Dev" },
+    { id: 4, icon: "/assets/img/icons/app.svg", title: "Smart Contract" },
   ];
   return (
     <div className="services-area mt-24">

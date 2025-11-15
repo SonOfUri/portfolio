@@ -35,7 +35,7 @@ const ProfileCard = () => {
         <div className="text">
           <h3 className="card-title u-class-no-flex">Son Of Uri <span className="wave"> 👋 </span> </h3>
           <p>
-            A <span>Web3 Product Developer</span>🖥️ specializing in UI/UX design, full-stack development & smart contract engineering.
+            A <span> Product Developer</span> specializing in UI/UX design, full-stack development, smart contract engineering and building high-impact products.
           </p>
           <div className="common-button-groups">
               <a className="btn btn-call" href="https://t.me/SonOfUri_dev">

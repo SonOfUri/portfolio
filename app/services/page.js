@@ -18,7 +18,7 @@ const page = () => {
       icon: "/assets/img/icons/web-development.svg",
       title: "Web Development",
     },
-    { id: 4, icon: "/assets/img/icons/app.svg", title: "Smart Contract Dev" },
+    { id: 4, icon: "/assets/img/icons/app.svg", title: "Smart Contract" },
 
     // { id: 1, icon: "/assets/img/icons/ui-ux.svg", title: "Web Development" },
     // { id: 2, icon: "/assets/img/icons/app.svg", title: "Smart Contract" },

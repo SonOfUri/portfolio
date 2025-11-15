@@ -11,8 +11,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "SonofURI | Web3 Developer",
-  description: "A Web3 Product Developer🖥️ specializing in UI/UX design, full-stack development, & smart contract engineering.",
+  title: "SonofURI | Software Engineer",
+  description: "A Product Developer🖥️ specializing in UI/UX design, full-stack development, & smart contract engineering.",
   icons: {
     icon: [
       { url: "/assets/img/logo/favicon.ico" },
